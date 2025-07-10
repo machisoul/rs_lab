@@ -4,3 +4,12 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+
+
+[[bin]]
+name = "fmt_disply"
+path = "src/lab_01/fmt_print.rs"
+
+[[bin]]
+name = "fmt_debug"
+path = "src/lab_01/fmt_debug.rs"
